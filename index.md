@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dharmesh Patel
 
 You can use the [editor on GitHub](https://github.com/dharmesh96/dharmesh96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
